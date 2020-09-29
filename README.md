@@ -1,1 +1,1 @@
-# SQUARE
+# Box Class
